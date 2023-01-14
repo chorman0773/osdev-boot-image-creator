@@ -1,0 +1,3 @@
+[submodule "ext2-rs"]
+	path = ext2-rs
+	url = https://git.ablecorp.us/AbleOS/ext2-rs
